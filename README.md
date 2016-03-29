@@ -7,7 +7,8 @@ A Go package which creates a writer that counts the number of bytes written to i
 ## License
 This is so stupidly simple, it really does not need a license.
 
-```This is free and unencumbered software released into the public domain.
+```
+This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
@@ -30,4 +31,5 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <http://unlicense.org/>```
+For more information, please refer to <http://unlicense.org/>
+```
